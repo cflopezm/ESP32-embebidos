@@ -7,8 +7,8 @@
 
 // Datos de la red wifi
 
-const char* ssid = "HOME MADRID";
-const char* password = "8209920mama*";
+const char* ssid = "MY_ID";
+const char* password = "MY_PASSWORD";
 
 // nombre del dominio o direccion IP
 
