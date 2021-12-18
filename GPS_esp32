@@ -7,8 +7,8 @@
 #include <WiFiClient.h>
 
 // Credenciales para conectarse al wifi
-const char* ssid = "HOME MADRID";
-const char* password = "8209920mama*";
+const char* ssid = "nombre_wifi";
+const char* password = "contraseña";
 
 // nombre del dominio o direccion IP
 
